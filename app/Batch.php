@@ -13,6 +13,6 @@ class Batch extends Model
     'namme',
         'city',
         'phoneno',
-        'publishedAt',
+        
     ];
 }
